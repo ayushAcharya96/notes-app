@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128310213123",
+    "project_id": "notes-app-62a36",
+    "storage_bucket": "notes-app-62a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128310213123:android:edb40536fb625cd1b22c36",
+        "android_client_info": {
+          "package_name": "com.springfield.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128310213123-svlfo1m8q87jkjq2g3un9trspfg0qc87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iPM-cjPWyheGWrzSHJjuox1av5aPhhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128310213123-svlfo1m8q87jkjq2g3un9trspfg0qc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
